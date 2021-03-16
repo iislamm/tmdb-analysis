@@ -17,6 +17,6 @@ The features selected for the context of this report are: “popularity”,“bu
 
 * The most used genres are Drama, Comedy, Thriller, and Action with the Drama on top. People tend to be "Drama" queens
 * The highest budget spent on Adventure, Fantasy, Family, and History.
-* The highest reveneue making genres are are the ones most produces. That didn't need a data analyst to find out.
-* Budget spent has low influence on both revenues on populariyt. Money doesn't buy everything after all. At least not the popularity of the movies.
+* The highest reveneue making genres are are the ones most produced. That didn't need a data analyst to find out.
+* Budget spent has low influence on both revenues on populariy. Money doesn't buy everything after all. At least not the popularity of the movies.
 * Cast members has no influence on the revenues. It turned out to be just a myth.
